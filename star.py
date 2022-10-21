@@ -18,4 +18,4 @@ if minutes > 0:
 if seconds > 0:
     print(seconds, 'Seconds', end=' ')
 print()
-print("popup display")
+print("popup displayed in bottom section")
